@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="app">
+    <my-header></my-header>
+    <my-content></my-content>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+    // Vue.component('컴포넌트 명', {컴포넌트 내용}) // 전역 컴포넌트 생성
+    Vue.component('my-header', {
+      template: '<h2>App Header</h2>',
+    })
+
+    Vue.component('my-content', {
+      template: '<p>App Content</p>',
+    })
+
+    new Vue({
+      el: '#app',
+    })
+  </script>
+</body>
+</html>
+
+<!-- 
+  컴포넌트
+
+  전역 컴포넌트 : 
+  여러 vue 인스턴스에서 공통으로 사용이 가능 (접근 가능) 
+  = vue로 접근 가능한 모든 범위에서 사용가능(접근 가능)
+
+  지역 컴포넌트 : 
+  해당 인스턴스 내에서만 사용이 가능한 컴포넌트
+ -->
