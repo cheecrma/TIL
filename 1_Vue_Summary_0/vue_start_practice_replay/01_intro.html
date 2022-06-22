@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="app">
+    이름 : 
+  </div>
+
+  <script>
+    const app = document.querySelector('#app')
+    let name = 'cheecrma'
+    app.innerText = '이름 : ' + name
+
+    name = 'henry'
+    // 이렇게 이름을 henry로 해줘도 이미 app.innerText 에서의 name은 위에 cheecrma를 읽고 있음.
+    // henry를 사용하려면 밑에 다시 
+    // app.innerText = '이름 : ' + name
+    // 를 작성 해줘야 함
+  </script>
+</body>
+</html>
