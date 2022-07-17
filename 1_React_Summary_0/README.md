@@ -6,7 +6,7 @@
 | --- | -------------------- | ---- | ----------- | ----------- |
 |     | :white_check_mark:   |      | react 기초 개요 | 목표 학습기간: 2일 |
 | 1   | :white_check_mark:   | 4h   | React의 필요성  |             |
-| 1   | :white_large_square: | 4h   | React 기본 세팅 |             |
+| 1   | :white_check_mark:   | 4h   | React 기본 세팅 | JS 기초 복습 대체 |
 | 1   | :white_large_square: | 5h   | JSX 사용법     |             |
 
 ----
