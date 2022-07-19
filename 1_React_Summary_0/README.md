@@ -16,7 +16,7 @@
 | 파트  | 체크                   | 학습시간 | 학습 내용                      | 비고          |
 | --- | -------------------- | ---- | -------------------------- | ----------- |
 |     | :white_check_mark:   |      | React scss 학습과 react 실습 개요 | 목표 학습기간: 2일 |
-| 1   | :white_large_square: | 5h   | 로그인 페이지 커스터마이징             |             |
+| 1   | :white_check_mark:   | 5h   | 로그인 페이지 커스터마이징             |             |
 | 2   | :white_large_square: | 6h   | React scss 학습              |             |
 
 ----
