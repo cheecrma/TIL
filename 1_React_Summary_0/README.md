@@ -29,5 +29,3 @@
 | 1   | :white_large_square: |      | 회원가입 페이지 제작    |     |
 | 1   | :white_large_square: |      | 회원가입 완료 페이지 제작 |     |
 | 1   | :white_large_square: |      | 비밀번호 변경 페이지 제작 |     |
-
-----
