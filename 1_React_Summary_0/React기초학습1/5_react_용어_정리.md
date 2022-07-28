@@ -11,3 +11,11 @@
 - ECMAScript 언어 명세의 버전을 나타냄.
 
 - ES6 버전(ES2015로도 알려져 있음.)에는 이전 버전에 없던 화살표 함수(arrow function), class, 템플릿 리터럴(template literal), `let`과 `const` 구문과 같은 많은 추가 사항이 포함되어 있음.
+
+### 컴파일러
+
+- JavaScript 컴파일러(Compiler)는 JavaScript 코드를 변환하고 다른 형식으로 JavaScript 코드를 반환함.
+
+- 일반적으로 ES6 문법을 구형 브라우저에서도 동작할 수 있도록 변환하는 데 많이 사용함.
+
+- Babel은 React와 함께 가장 널리 사용되는 컴파일러임.
