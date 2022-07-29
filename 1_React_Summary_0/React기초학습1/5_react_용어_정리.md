@@ -20,4 +20,8 @@
 
 - Babel은 React와 함께 가장 널리 사용되는 컴파일러임.
 
-### 
+### 번들러
+
+- 번들러(Bundler)는 분리된 JavaScript와 CSS 모듈 코드를 브라우저에 최적화된 여러 개의 파일로 결합함.
+
+- React 애플리케이션에서 널리 사용되는 번들러에는 `Webpack`과 `Browserify`가 있음.
