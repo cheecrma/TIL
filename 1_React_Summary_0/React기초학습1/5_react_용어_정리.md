@@ -35,3 +35,11 @@
 - Content Delivery Network의 약자.
 
 - CDN은 전 세계의 서버 네트워크에서 캐시된 정적 콘텐츠를 제공.
+
+### JSX
+
+- JavaScript의 확장 문법. JSX는 템플릿 언어와 비슷해 보이지만, JavaScript의 강력한 기능들을 모두 사용할 수 있음. JSX는 `React.createElement()`의 호출을 통해 일반 JavaScript 객체인 "React 엘리먼트"로 컴파일 됨. 
+
+- React DOM은 HTML 어트리뷰트(attribute) 이름 대신 캐멀케이스(camelCase)를 네이밍 컨벤션으로 사용함.
+  
+  - 예를 들어, JSX에서 `tabindex`는 `tabIndex`로 작성함. `class` 어트리뷰트는 JavaScript의 예약어이므로 `className`으로 작성 함.
