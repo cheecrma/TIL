@@ -12,6 +12,10 @@ node.js 설치, npm 설치
 
 expo를 이용해 React Native 안에 있는 JS와 Style 부분 코드 작성으로 다른 설치 없이 바로 모바일로 테스트해볼 수 있도록 해줌.
 
-`npm install --global expo-cli`로 설치해주고 폰에 애플 설치 하면 됨.
+`npm install --global expo-cli`로 설치해주고 폰에 앱 설치 하면 됨.
+
+---
+
+react native에는 브라우저가 없음 bridge로 ios, Android로 가는 거
 
 
