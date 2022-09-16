@@ -18,4 +18,6 @@ expo를 이용해 React Native 안에 있는 JS와 Style 부분 코드 작성으
 
 react native에는 브라우저가 없음 bridge로 ios, Android로 가는 거
 
+---
+
 
