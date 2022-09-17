@@ -20,4 +20,6 @@ react native에는 브라우저가 없음 bridge로 ios, Android로 가는 거
 
 ---
 
+---
+
 
