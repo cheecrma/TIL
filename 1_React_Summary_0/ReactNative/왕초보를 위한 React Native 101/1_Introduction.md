@@ -20,6 +20,6 @@ react native에는 브라우저가 없음 bridge로 ios, Android로 가는 거
 
 ---
 
----
+react native는 웹사이트가 아니므로 div를 사용하는 것이 아닌 view를 사용하고 view가 컨테이너 임.
 
 
