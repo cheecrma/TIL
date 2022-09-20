@@ -24,8 +24,6 @@ react native는 웹사이트가 아니므로 div를 사용하는 것이 아닌 v
 
 또한 span, p, h1, h2 등 없고 Text를 사용함
 
-
-
 `const styles = {}`로 스타일을 넣어도 되지만 `const styles = StyleSheet.create({})`를 이용하는 이유는 object로 자동 완성 기능을 제공해주기 때문.
 
 ---
@@ -35,3 +33,5 @@ StatusBar는 상단의 시간 와이파이 배터리 부분을 말함.
 ---
 
 모든 view는 flex container로 사이즈는 flex 비율로 조정할 수 있음.
+
+---
