@@ -33,5 +33,3 @@ StatusBar는 상단의 시간 와이파이 배터리 부분을 말함.
 ---
 
 모든 view는 flex container로 사이즈는 flex 비율로 조정할 수 있음.
-
----
